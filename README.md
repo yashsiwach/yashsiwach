@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashulpu](https://github.com/yashulpu)
+- 👨‍💻 All of my projects are available at [https://github.com/yashsiwach](https://github.com/yashulpu)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yashsiwach/](https://www.linkedin.com/in/yashsiwach/)
 
