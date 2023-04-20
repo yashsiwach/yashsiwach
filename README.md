@@ -1,3 +1,4 @@
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 3 GFG (LPU) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
 <img align="right" salt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -13,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yashsiwach/](https://www.linkedin.com/in/yashsiwach/)
 
-- 📫 How to reach me **yashsiwach684@gmail.com**
+-  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-yashsiwach684@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:yashsiwach684@gmail.com)
 
 - ⚡ Fun fact **I learnt basics of C in my 9th class.😅**
 
