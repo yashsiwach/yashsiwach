@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
-<h3 align="center"> 🥇Rank 1 Holder at GFG (LPU) •CPP Developer • C (Certified By HR Govt.) • ⭐C.E.H (Certified 1Yr.) • WordPress:-Skilled</h3>
+<h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 3 GFG (LPU) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
 <img align="right" salt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsiwach&label=Profile%20views&color=0e75b6&style=flat" alt="yashsiwach" /> </p>
 
