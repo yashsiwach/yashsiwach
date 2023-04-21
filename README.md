@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Contributions-Graph-brightgreen" alt="Contributions Graph" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-GitHub-orange" alt="Powered by GitHub" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 3 GFG (LPU) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
