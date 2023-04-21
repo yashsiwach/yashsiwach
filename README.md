@@ -1,6 +1,6 @@
 <!-- GitHub contribution graph -->
 <a href="https://github.com/yashsiwach">
-  <img src="https://ghchart.rshah.org/yashsiwach" alt="Your GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/yashsiwach"  align="center" alt="Your GitHub Contributions" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
