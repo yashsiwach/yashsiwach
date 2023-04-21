@@ -1,4 +1,8 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+<!-- GitHub contribution graph -->
+<a href="https://github.com/yashsiwach">
+  <img src="https://ghchart.rshah.org/yashsiwach" alt="Your GitHub Contributions" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 3 GFG (LPU) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
 
