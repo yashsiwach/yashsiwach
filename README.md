@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
-<h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 3 GFG (LPU) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
+<h3 align="center"> Founder & CEO @Apna College LPU </> | Software Developer | Rank 1 GFG (LPU-JAN2023) | Kali Linux | Ethical Hacking (1 Yr.) | CSE Student at Lovely Professional University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsiwach&label=Profile%20views&color=0e75b6&style=flat" alt="yashsiwach" /> </p>
 
