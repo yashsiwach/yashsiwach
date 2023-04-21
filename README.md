@@ -3,9 +3,7 @@
   <img src="https://ghchart.rshah.org/yashsiwach" alt="Your GitHub Contributions" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Graph-brightgreen" alt="Contributions Graph" />
-</p>
+
 
 
 
