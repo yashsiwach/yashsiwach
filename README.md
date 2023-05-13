@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently learning **C++ and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashsiwach](https://github.com/yashsiwach)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yashsiwach/](https://www.linkedin.com/in/yashsiwach/)
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-yashsiwach684@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:yashsiwach684@gmail.com)
