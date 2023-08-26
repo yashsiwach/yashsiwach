@@ -1,7 +1,7 @@
 <!-- Customized GitHub contribution graph -->
 
 
-- 🏠 Belong to **Hisar - HARYANA**
+- 🌱 BELONG TO -> **HISAR - HARYANA**
 
 
 
