@@ -7,7 +7,7 @@
 
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;My+self+Yash+Siwach;Welcome+to+my+GitHub;I'm+a+competitive+programmer;I'm+a+LeetCoder;I'm+a+Open+Source+Contributor;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Yash+Siwach;Welcome+to+my+GitHub;I'm+a+competitive+programmer;I'm+a+LeetCoder;I'm+a+Open+Source+Contributor;">
   </a>
 </p>
 </h1>
