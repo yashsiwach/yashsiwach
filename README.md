@@ -19,9 +19,9 @@
 
 <p align="left"> <a href="https://twitter.com/yash_siwxch" target="blank"><img src="https://img.shields.io/twitter/follow/yash_siwxch?logo=twitter&style=for-the-badge" alt="yash_siwxch" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and Web Development**
+- 🏅 I’m currently learning **C++ and Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yashsiwach/](https://www.linkedin.com/in/yashsiwach/)
+- 📝 I regularly write articles on [LinkedIN](https://www.linkedin.com/in/yashsiwach/)
 
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-yashsiwach684@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:yashsiwach684@gmail.com)
 
@@ -34,11 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/yash_siwxch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_siwxch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@yash_siwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yash_siwach" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/@haryanviprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@haryanviprogrammer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@yash_siwach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@yash_siwach" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/@yashsiwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yashsiwach" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@haryanviprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@haryanviprogrammer" height="30" width="40" /></a><a href="https://www.leetcode.com/@yashsiwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yashsiwach" height="30" width="40" /></a>
 
 </p>
 
