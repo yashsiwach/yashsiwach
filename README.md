@@ -1,6 +1,7 @@
 <!-- Customized GitHub contribution graph -->
 
 
+
 - 🏠 BELONG TO -> **HISAR - HARYANA**🚨
 
 
@@ -34,15 +35,22 @@
 <p align="left">
 <a href="https://twitter.com/yash_siwxch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_siwxch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@yash_siwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yash_siwach" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@haryanviprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@haryanviprogrammer" height="30" width="40" /></a><a href="https://www.leetcode.com/@yashsiwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yashsiwach" height="30" width="40" /></a>
-
+<a href="https://www.youtube.com/c/@haryanviprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@haryanviprogrammer" height="30" width="40" /></a>
+ 
+ <a href="https://www.leetcode.com/@yashsiwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yashsiwach" height="30" width="40" /></a>
+ 
 </p>
 
 
 
+<br>
+<p>
 
+ ![Screenshot from 2023-10-20 02-10-20](https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381)
+</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsiwach&" alt="yashsiwach" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsiwach&" alt="yashsiwach" />
+
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
