@@ -12,7 +12,7 @@
   </a>
 </p>
 </h1>
-<h3 align="center"> Founder & CEO @Apna College LPU (Org.) </> | Software Developer | Competitive Programmer  | Ethical Hacking (1 Yr.) | Computer Science & Engineering  at LPU</h3>
+<h3 align="center"> Leading Coding Org. ( Followed by 3k+) | AIR -198 GFG-137 | Leetcode (1578)|Competitive Programmer | Computer Science & Engineering</h3>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsiwach&label=Profile%20views&color=0e75b6&style=flat" alt="yashsiwach" /> </p>
 
