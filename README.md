@@ -27,7 +27,7 @@
 -  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-yashsiwach684@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:yashsiwach684@gmail.com)
 
 - ⚡ Fun fact **I learnt basics of C in my 9th class.😅**
-- <a href="https://leetcode.com/yashsiwach" target="_blank">
+- <a href="https://leetcode.com/7mm" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/yashsiwach?hide=ranking&border=0&radius=21' width='310"'>
 </a>
 
