@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I learnt basics of C in my 9th class.😅**
 - <a href="https://leetcode.com/7mm" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/yashsiwach?hide=ranking&border=0&radius=21' width='310"'>
+ <img align="right" src='https://leetcard.jacoblin.cool/7mm?hide=ranking&border=0&radius=21' width='310"'>
 </a>
 
 <h3 align="left">Connect with me:</h3>
